@@ -1,0 +1,5 @@
+{
+  "name": "Semantic Parking Gen",
+  "description": "An AI tool that analyzes reference parking lot floor plans and generates semantically labeled SVG layouts with similar topology, strictly adhering to architectural constraints.",
+  "requestFramePermissions": []
+}
